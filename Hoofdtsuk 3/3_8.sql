@@ -1,0 +1,1 @@
+UPDATE country SET Population = 1200000 WHERE code = "XYZ";

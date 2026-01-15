@@ -1,0 +1,1 @@
+INSERT INTO country (Code, Name, Continent, Population) VALUES ("XYZ", "Testland", "Europe", 1000000);
